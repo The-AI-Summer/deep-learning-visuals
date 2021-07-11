@@ -1,22 +1,20 @@
 # Deep Learning visuals
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
+A collection of Deep Learning images and visualizations. The project has been developed by the [AI Summer](https://theaisummer.com/) team and currently contains almost **100 images**.  
 
-A collection 100 Deep Learning images and visulaizations. 
-
-The images have been created using [https://www.diagrams.net/](https://www.diagrams.net/) over the past years and have been included in:
 
 - Articles for the [AI Summer](https://theaisummer.com/) blog
 - [Introduction to Deep Learning & Neural Networks](https://www.educative.io/courses/intro-deep-learning) course in educative.io
 - Upcoming Deep Learning in Production bool
 - Upcoming Introduction to Deep Learning book
 
-
 This repository was inspired by:
--  [ml-visuals](https://github.com/dair-ai/ml-visuals) repository maintained by [dair.ai](https://dair.ai/) 
--  [dl-visuals](https://github.com/dvgodoy/dl-visuals) repository maintained by [Daniel Voigt Godoy](https://github.com/dvgodoy)
 
+- [ml-visuals](https://github.com/dair-ai/ml-visuals) repository maintained by [dair.ai](https://dair.ai/)
+- [dl-visuals](https://github.com/dvgodoy/dl-visuals) repository maintained by [Daniel Voigt Godoy](https://github.com/dvgodoy)
+
+The images have been created using [https://www.diagrams.net/](https://www.diagrams.net/) over the past years and have been included in:
 
 ## Contents
 
@@ -36,24 +34,24 @@ This repository was inspired by:
 - [Sequence processing](https://github.com/The-AI-Summer/deep-learning-visuals/tree/main/Sequence%20processing)
 - [Transformers](https://github.com/The-AI-Summer/deep-learning-visuals/tree/main/Transformers)
 
+## Can I use them?
 
-## Can  I use them?
-
-Of course. You are allowed to use the images anywhere you like ( even for commercial use), as long as you attribute AI Summer. 
+Of course. You are allowed to use the images anywhere you like ( even for commercial use), as long as you attribute AI Summer.
 
 ## Examples
 
+### Vision Transformer
+
 ![](https://raw.githubusercontent.com/The-AI-Summer/deep-learning-visuals/main/Transformers/vit.png?token=AG2SPJCWDMYSDRZC5T7QDJLA5MC5M)
 
+### Inception block
 
 ![](https://raw.githubusercontent.com/The-AI-Summer/deep-learning-visuals/main/Convolutional%20Neural%20Networks/inception-block.png?token=AG2SPJCED2R3F26ZURH2SUDA5MCWI)
 
+### Layer normalization
 
 ![](https://raw.githubusercontent.com/The-AI-Summer/deep-learning-visuals/main/Normalization/instance-normalization.png?token=AG2SPJHSUC2FDBSRCEWPYHLA5MCYK)
 
+### Graph convolution
 
 ![](https://raw.githubusercontent.com/The-AI-Summer/deep-learning-visuals/main/Graph%20Neural%20Networks/graph-convolution.png?token=AG2SPJGEHTHEO5BQJWLYOQ3A5MC4G)
-
-
-
-
