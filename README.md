@@ -42,16 +42,16 @@ Of course. You are allowed to use the images anywhere you like ( even for commer
 
 ### Vision Transformer
 
-![](https://raw.githubusercontent.com/The-AI-Summer/deep-learning-visuals/main/Transformers/vit.png?token=AG2SPJCWDMYSDRZC5T7QDJLA5MC5M)
+![](https://github.com/The-AI-Summer/deep-learning-visuals/blob/main/Transformers/vit.png)
 
 ### Inception block
 
-![](https://raw.githubusercontent.com/The-AI-Summer/deep-learning-visuals/main/Convolutional%20Neural%20Networks/inception-block.png?token=AG2SPJCED2R3F26ZURH2SUDA5MCWI)
+![](https://github.com/The-AI-Summer/deep-learning-visuals/blob/main/Convolutional%20Neural%20Networks/inception-block.png)
 
 ### Layer normalization
 
-![](https://raw.githubusercontent.com/The-AI-Summer/deep-learning-visuals/main/Normalization/instance-normalization.png?token=AG2SPJHSUC2FDBSRCEWPYHLA5MCYK)
+![](https://github.com/The-AI-Summer/deep-learning-visuals/blob/main/Normalization/layer-normalization.png)
 
 ### Graph convolution
 
-![](https://raw.githubusercontent.com/The-AI-Summer/deep-learning-visuals/main/Graph%20Neural%20Networks/graph-convolution.png?token=AG2SPJGEHTHEO5BQJWLYOQ3A5MC4G)
+![](https://github.com/The-AI-Summer/deep-learning-visuals/blob/main/Graph%20Neural%20Networks/graph-convolution.png)
