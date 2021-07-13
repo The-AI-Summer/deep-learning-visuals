@@ -6,7 +6,7 @@ A collection of Deep Learning images and visualizations. The project has been de
 
 - Articles for the [AI Summer](https://theaisummer.com/) blog
 - [Introduction to Deep Learning & Neural Networks](https://www.educative.io/courses/intro-deep-learning) course in educative.io
-- Upcoming Deep Learning in Production bool
+- Upcoming [Deep Learning in Production book](https://github.com/The-AI-Summer/Deep-Learning-In-Production)
 - Upcoming Introduction to Deep Learning book
 
 This repository was inspired by:
