@@ -14,7 +14,7 @@ This repository was inspired by:
 - [ml-visuals](https://github.com/dair-ai/ml-visuals) repository maintained by [dair.ai](https://dair.ai/)
 - [dl-visuals](https://github.com/dvgodoy/dl-visuals) repository maintained by [Daniel Voigt Godoy](https://github.com/dvgodoy)
 
-The images have been created using [https://www.diagrams.net/](https://www.diagrams.net/) over the past years and have been included in:
+The images have been created using [https://www.diagrams.net/](https://www.diagrams.net/) over the past years.
 
 ## Contents
 
